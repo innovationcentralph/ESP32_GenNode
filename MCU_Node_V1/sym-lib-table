@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MIKROE-3800")(type "KiCad")(uri "${KIPRJMOD}/Footprint and Symbols/MIKROE_3800/MIKROE-3800.kicad_sym")(options "")(descr ""))
+)
