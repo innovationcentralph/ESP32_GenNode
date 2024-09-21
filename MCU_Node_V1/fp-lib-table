@@ -1,4 +1,5 @@
 (fp_lib_table
   (version 7)
   (lib (name "MIKROE_3800")(type "KiCad")(uri "${KIPRJMOD}/Footprint and Symbols/MIKROE_3800")(options "")(descr ""))
+  (lib (name "ICPH")(type "KiCad")(uri "${KIPRJMOD}/ICPH.pretty")(options "")(descr ""))
 )
