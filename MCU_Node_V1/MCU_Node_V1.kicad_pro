@@ -216,7 +216,10 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      "lib_symbol_issues|3032760|2430780|95e48519-f735-4b1a-941b-6a15acd38a09|00000000-0000-0000-0000-000000000000|||",
+      "pin_to_pin|2080260|2298700|553cbbe1-f068-45ea-a38d-d9e2078f30f6|ca5086f9-fc52-436c-9106-3170932be216|/8f3fcdef-c1c5-4633-bb68-bb9798a055e2|/8f3fcdef-c1c5-4633-bb68-bb9798a055e2|/8f3fcdef-c1c5-4633-bb68-bb9798a055e2"
+    ],
     "meta": {
       "version": 0
     },
@@ -526,7 +529,7 @@
           "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
