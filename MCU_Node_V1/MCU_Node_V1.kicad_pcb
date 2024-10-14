@@ -67054,6 +67054,7 @@
 		(layer "B.Cu")
 		(uuid "f411de74-3203-401b-97a0-ba7f6e597c54")
 		(hatch edge 0.5)
+		(priority 1)
 		(connect_pads yes
 			(clearance 0.5)
 		)
